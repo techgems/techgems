@@ -4,8 +4,8 @@ I have had the chance to build many projects from scratch using **Cloud native**
 
 I'm also an **author of multiple open-source libraries** as I have encountered challenges that would benefit from solutions not previously available.
 
-- 🌐 [Blog](https://techgems.net/)
-- 🖥 [Open Source Libraries](https://techgems.net/projects/)
+- 🌐 [Blog](https://carlosjimenez.us/)
+- 🖥 [Open Source Libraries](https://carlosjimenez.us/projects/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-jimenez-61a926b7/)
 
 
